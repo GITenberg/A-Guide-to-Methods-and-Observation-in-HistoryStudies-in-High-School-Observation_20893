@@ -1,0 +1,28 @@
+_repo: A-Guide-to-Methods-and-Observation-in-HistoryStudies-in-High-School-Observation_20893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Calvin Olin
+    birthdate: 1871
+    gutenberg_agent_id: '9590'
+    url: http://www.gutenberg.org/2009/agents/9590
+description: ''
+gutenberg_issued: '2007-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20893'
+  lccn: '14010050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History -- Study and teaching'
+title: 'A Guide to Methods and Observation in History
+
+  Studies in High School Observation'
+url: http://www.gutenberg.org/ebooks/20893
