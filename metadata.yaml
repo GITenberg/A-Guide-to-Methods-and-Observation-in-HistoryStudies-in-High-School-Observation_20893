@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9590'
     url: http://www.gutenberg.org/2009/agents/9590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20893#A-Guide-to-Methods-and-Observation-in-HistoryStudies-in-High-School-Observation
 gutenberg_issued: '2007-03-24'
 gutenberg_type: Text
 identifiers:
